@@ -12,7 +12,7 @@ if there is an error such the user already exists then Error message will appear
 
 
 
-:star: **Home Page : ** this page starts with loading Data from firebase realtime databse (loading posts) and getting it and render posts in home page 
+:star: **Home Page:** :  this page starts with loading Data from firebase realtime databse (loading posts) and getting it and render posts in home page 
 every post has functions such as : 
 - post title or message (what user write on post)
 - owner  profile and it's username
@@ -28,11 +28,11 @@ and eclipse button which has some list of functions also  :
 there is more than 190 post in the home page whenever user reaches the bottom of the page the page automatically gets new post from database and render it to redux array and display it in Home page.
 the post Card is not supporting the video element because of user experience problem.
 
-:star: **Search Page:** I created this page just similar to instagrame search in design and in functionality .
+:star: **Search Page:** : I created this page just similar to instagrame search in design and in functionality .
 the Search starts with keyword if user typed 'Muhammed' then the input value will be submited and return the list of results which contains list of users which contains word 'Muhammed'.
 if the user found what he looking for he can click on user Card and it will redirect it to the user page e.c ('Muhammed' Profile).
 
- :star: **Reels:** this page is similart also to instagrame reels and titk tok videos style , the videos setted to auto played and muted , but user can Unmute and stop the video or play also.
+ :star: **Reels:** : this page is similart also to instagrame reels and titk tok videos style , the videos setted to auto played and muted , but user can Unmute and stop the video or play also.
  this reels Card contains following features : 
  - display list of the reels comments 
  - like the reel || unlike the reel
