@@ -96,13 +96,13 @@ user can post and comment copy posts link and view posts details also in instagr
 
 I used in this project many tools :
 
-- HTML  & Vanilla Js & SCSS
-- React Js 
-- firebase (AUTH & firestore & realtime database & storage)
-- Redux Toolkite to manage the app state because it's a bit large
-- (framer Motions for animations) & (Uiid Generator) & ()
-- Adobe Stock Icons (which is used in navbar)
-- font-awsome (icons)
+-:zap: HTML  & Vanilla Js & SCSS
+-:zap: React Js 
+-:zap: firebase (AUTH & firestore & realtime database & storage)
+-:zap: Redux Toolkite to manage the app state because it's a bit large
+-:zap: (framer Motions for animations) & (Uiid Generator) & ()
+-:zap: Adobe Stock Icons (which is used in navbar)
+-:zap: font-awsome (icons)
 
 :dash: there is some other features that is not included in the app , also you will find there Notification Page Maybe it will work and maybe no , so I have no much time to fix it and add other features such as account details when it's created and etc....
 those other features are really east but no time to add.
