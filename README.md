@@ -39,7 +39,7 @@ if the user found what he looking for he can click on user Card and it will redi
  - Save the reel to saved posts which is in profile page.
 user can scroll down between reels , and watch them one by one like tik tok.
  
-:star: **Messaging : ** this page has a little bit custome desing but also a clone from instagrame messaging page  , in this page you can see you list of users that you talked to before , and ability to creat new conversation with new firend .
+:star: **Messaging** : this page has a little bit custome desing but also a clone from instagrame messaging page  , in this page you can see you list of users that you talked to before , and ability to creat new conversation with new firend .
 the user can send and recive messages from other users , messages are encrypted because of firestore security.
 every user you send a message to or recived a message from is save in the front page list and can talk again , old messages are saved also sender messages will be in the right and reciver messages will be in the left , similart to modern messages style.
 in old messages you can also see how much unseen messages you have with red color (1,2,3 or maybe 5)
