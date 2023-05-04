@@ -4,7 +4,7 @@ the project is Instagram Clone with Most features and Design is inspired from In
 
 ## Features
 
-:star: **Login / SignUp:** : 
+:star: **Login / SignUp** : 
 Design : the design is a clone to instagram completely.
 functionality : I used firebase AUTH (email , password) method to sign up user in firebase realtime database , and email container.
 this applied for both pages SignUp and Login.
