@@ -1,7 +1,9 @@
 #  :fire: InstagrameClone
 
 the project is Instagram Clone with Most features and Design is inspired from Instagrame
-
+<br/>
+![NewProject](https://user-images.githubusercontent.com/130691762/236223751-63f8f160-a308-43bd-8839-606ad2335a07.png)
+<br/>
 ## Features
 
 :star: **Login / SignUp** : <br/><br/>
