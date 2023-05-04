@@ -1,4 +1,4 @@
-# InstagrameClone
+#  :fire: InstagrameClone
 
 the project is Instagram Clone with Most features and Design is inspired from Instagrame
 
