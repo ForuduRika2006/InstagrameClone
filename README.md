@@ -42,50 +42,55 @@ if the user found what he looking for he can click on user Card and it will redi
  - Save the reel to saved posts which is in profile page.
 user can scroll down between reels , and watch them one by one like tik tok.
  
-:star: **Messaging** : this page has a little bit custome desing but also a clone from instagrame messaging page  , in this page you can see you list of users that you talked to before , and ability to creat new conversation with new firend .
+:star: **Messaging** : <br/><br/>
+
+this page has a little bit custome desing but also a clone from instagrame messaging page  , in this page you can see you list of users that you talked to before , and ability to creat new conversation with new firend .
 the user can send and recive messages from other users , messages are encrypted because of firestore security.
 every user you send a message to or recived a message from is save in the front page list and can talk again , old messages are saved also sender messages will be in the right and reciver messages will be in the left , similart to modern messages style.
 in old messages you can also see how much unseen messages you have with red color (1,2,3 or maybe 5)
 and the user card contains also the last messages send in the conversation.
 
-
-:star: **Profile** : this page contains user infrormations such as username , profile picture , user posts.
+<br/>
+:star: **Profile** :  <br/><br/>
+this page contains user infrormations such as username , profile picture , user posts.
 this profile has following feartures  : 
 - if user has no post he can creat one from profile page .
 - the user can see his posts , as also other users can see his posts by accesing his profile.
 - the user can only see his saved posts and view it's details such as who post it time posted and tile of the post etc....
 - user can change his profile picture from his choise , just click on profile picture and a updater component will apear and choose a picture from you device.
 
-:star: **Uploading Posts / Reel** : all users can post new post from the nav bar button which will apear and it wil ask to set the file path (supports images/videos only) and it will ask also for post titl and user shold write something on the post and click on post button will post it in home page ,
+:star: **Uploading Posts / Reel** : <br/><br/>
+all users can post new post from the nav bar button which will apear and it wil ask to set the file path (supports images/videos only) and it will ask also for post titl and user shold write something on the post and click on post button will post it in home page ,
 untile it's not posted the loading effect will apear.
 
-:star: **More button** :  this is the last button in the nav bar which has two options : 
+:star: **More button** : <br/><br/>
+this is the last button in the nav bar which has two options : 
 - 1st : Logout
 - 2st : Cancel
 
-- More informations about user actions in the project : 
+:dash: More informations about user actions in the project : 
 user can post and comment copy posts link and view posts details also in instagrame design style
 
 
-the project pages are completley responsive in chrome dev tool in all screens and in my mobile too so it will work for most users.
+:dash: the project pages are completley responsive in chrome dev tool in all screens and in my mobile too so it will work for most users.
 
 
 ## Installation
 
-the project is a clone of instagrame so it should be easy to use.
+:dash: the project is a clone of instagrame so it should be easy to use.
 
 
 ## Contributing
 
-if you find any bug please send it to me and i'll fix.
+:dash: if you find any bug please send it to me and i'll fix.
 
 ## License
-this project is completley made by me from zero and it's completed.
+:dash: this project is completley made by me from zero and it's completed.
 
 
 ## Contact
 
-How users can get in touch with you, including email address, social media links, or other contact information.
+:dash: How users can get in touch with you, including email address, social media links, or other contact information.
 
 ## Acknowledgements
 
@@ -99,5 +104,5 @@ I used in this project many tools :
 - Adobe Stock Icons (which is used in navbar)
 - font-awsome (icons)
 
-there is some other features that is not included in the app , also you will find there Notification Page Maybe it will work and maybe no , so I have no much time to fix it and add other features such as account details when it's created and etc....
+:dash: there is some other features that is not included in the app , also you will find there Notification Page Maybe it will work and maybe no , so I have no much time to fix it and add other features such as account details when it's created and etc....
 those other features are really east but no time to add.
