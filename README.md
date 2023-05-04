@@ -53,7 +53,7 @@ this profile has following feartures  :
 - the user can only see his saved posts and view it's details such as who post it time posted and tile of the post etc....
 - user can change his profile picture from his choise , just click on profile picture and a updater component will apear and choose a picture from you device.
 
-:star:** Uploading Posts / Reel: ** all users can post new post from the nav bar button which will apear and it wil ask to set the file path (supports images/videos only) and it will ask also for post titl and user shold write something on the post and click on post button will post it in home page ,
+:star: **Uploading Posts / Reel** : all users can post new post from the nav bar button which will apear and it wil ask to set the file path (supports images/videos only) and it will ask also for post titl and user shold write something on the post and click on post button will post it in home page ,
 untile it's not posted the loading effect will apear.
 
 :star: **More button** :  this is the last button in the nav bar which has two options : 
